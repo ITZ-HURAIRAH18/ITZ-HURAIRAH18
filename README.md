@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M.Abu Hurairah</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-    <img width="400" style="display: block; margin: auto;"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
+
 
 
 
