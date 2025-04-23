@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-hurairah18&label=Profile%20views&color=0e75b6&style=flat" alt="itz-hurairah18" /> </p>
 
 
-- 🌱 I’m currently learning **Full-Stack Development**
+- 🌱 I’m a **Full-Stack Developer**
 
 - 💬 Ask me about **Web-Development**
 
