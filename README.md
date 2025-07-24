@@ -24,7 +24,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://x.com/abuhurirah1616?s=08" target="_blank">
+  <a href="https://x.com/HurairahAb73769" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-abu-hurairah-988ba1303" target="_blank">
