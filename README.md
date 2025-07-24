@@ -86,8 +86,9 @@
 ### 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=itz-hurairah18&theme=react-dark&bg_color=1a1b27" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itz-hurairah18&theme=github-dark" alt="GitHub Contribution Graph" />
 </p>
+
 
 ---
 
