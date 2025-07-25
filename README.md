@@ -83,18 +83,10 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itz-hurairah18&theme=github-dark" alt="GitHub Contribution Graph" />
-</p>
-
----
-
 ### 🧊 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Ashutosh00710/github-readme-3d-contrib@main/example/github-contribution-grid-snake-dark.svg" alt="3D Contribution Calendar" />
+  <img src="https://cdn.jsdelivr.net/gh/Ashutosh00710/github-readme-3d-contrib@main/3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
 </p>
 
 ---
