@@ -83,7 +83,7 @@
 
 ---
 
-### 🧊 3D Contribution Calendar
+### 🧊 3D Contribution Calendar (Auto-Updating)
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/Ashutosh00710/github-readme-3d-contrib@main/3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
