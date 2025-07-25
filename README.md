@@ -91,6 +91,14 @@
 
 ---
 
+### 🧊 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Ashutosh00710/github-readme-3d-contrib@main/example/github-contribution-grid-snake-dark.svg" alt="3D Contribution Calendar" />
+</p>
+
+---
+
 ### 🔥 Developer Quote
 
 > _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
