@@ -74,14 +74,18 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=itz-hurairah18&show_icons=true&theme=radical" alt="itz-hurairah18 stats" />
 </p>
 
-<p align
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-hurairah18&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 -----------
+
 
 ### 🔥 Developer Quote
 
