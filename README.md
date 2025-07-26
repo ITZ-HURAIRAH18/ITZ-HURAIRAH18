@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itz-hurairah18&label=Profile%20views&color=0e75b6&style=flat" alt="itz-hurairah18" />
+  <img src="https://komarev.com/ghpvc/?username=itz-hurairah18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Bachelor’s in Computer Science  
+- 🎓 Bachelor's in Computer Science  
 - 🌱 Growing as a **Full-Stack Developer**
 - 🛠️ Focused on **React**, **Django**, **PostgreSQL**
 - 💬 Ask me about **APIs**, **Web Development**, and **Clean Code**
@@ -29,6 +29,9 @@
   </a>
   <a href="https://www.linkedin.com/in/muhammad-abu-hurairah-988ba1303" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/abu_hurairah.rehmani" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
@@ -83,8 +86,11 @@
 
 ---
 
-
-
 ### 🔥 Developer Quote
 
 > _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
