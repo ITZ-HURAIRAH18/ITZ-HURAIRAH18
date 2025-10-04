@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abu Hurairah</h1>
-<h3 align="center">A passionate Full-Stack Developer from Pakistan</h3>
+<h3 align="center">A passionate Full-Stack & MERN Developer from Pakistan</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFEF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;Python+%7C+Django+%7C+React;Clean+Code+%7C+API+Craftsman;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFEF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;Python+%7C+Django+%7C+React;MERN+Stack+Developer;Clean+Code+%7C+API+Craftsman;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@
 ### 🧠 About Me
 
 - 🎓 Bachelor's in Computer Science  
-- 🌱 Growing as a **Full-Stack Developer**
-- 🛠️ Focused on **React**, **Django**, **PostgreSQL**
+- 🌱 Growing as a **Full-Stack & MERN Developer**
+- 🛠️ Focused on **React**, **Django**, **Node.js**, **MongoDB**
 - 💬 Ask me about **APIs**, **Web Development**, and **Clean Code**
 - 📍 Based in **Pakistan**
 
@@ -40,15 +40,27 @@
 ### 💻 Tech Stack
 
 <p align="left">
+  <!-- MERN -->
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <!-- Django / Python -->
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+  <!-- Frontend -->
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
@@ -61,19 +73,20 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
+  <!-- Database / Tools -->
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
+  <!-- Extra -->
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
 </p>
 
 ---
-
 
 ### 📊 GitHub Stats
 
@@ -85,12 +98,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-hurairah18&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
 
 ### 🔥 Developer Quote
 
-> "Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+> "Code is like humor. When you have to explain it, it’s bad."_ – Cory House  
 
 ---
 
 ⭐ **Thanks for visiting my profile!**
-
