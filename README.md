@@ -15,7 +15,7 @@
 
 - 🎓 Bachelor's in Computer Science  
 - 🌱 Growing as a **Full-Stack & MERN Developer**
-- 🛠️ Focused on **React**, **Django**, **Node.js**, **MongoDB**
+- 🛠️ Focused on **React**, **Django**, **Node.js**, **MongoDB**,**Next.js**
 - 💬 Ask me about **APIs**, **Web Development**, and **Clean Code**
 - 📍 Based in **Pakistan**
 
