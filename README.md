@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abu Hurairah</h1>
-<h3 align="center">A passionate Full-Stack & MERN Developer from Pakistan</h3>
+<h3 align="center">A passionate Full-Stack , MERN Developer & Next.js  from Pakistan</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E8FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+🚀;Python+|+Django+|+React+|+Next.js;MERN+Stack+Developer;Clean+Code+|+API+Craftsman;Always+Learning+New+Things" />
@@ -14,7 +14,7 @@
 ## 🧠 About Me
 
 - 🎓 Bachelor's in *Computer Science*  
-- 🌱 Growing as a **Full-Stack & MERN Developer**
+- 🌱 Growing as a **Full-Stack , MERN Developer & Next.js Developer**
 - 🛠️ Stack: **React**, **Next.js**, **Node.js**, **MongoDB**, **Django**
 - 💬 Ask me about **APIs**, **Web Development**, **Clean Code**
 - 📍 Based in **Pakistan**
