@@ -2,111 +2,97 @@
 <h3 align="center">A passionate Full-Stack & MERN Developer from Pakistan</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFEF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;Python+%7C+Django+%7C+React;MERN+Stack+Developer;Clean+Code+%7C+API+Craftsman;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E8FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+🚀;Python+|+Django+|+React+|+Next.js;MERN+Stack+Developer;Clean+Code+|+API+Craftsman;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itz-hurairah18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=itz-hurairah18&label=Profile%20views&color=blueviolet&style=flat-square" />
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🎓 Bachelor's in Computer Science  
+- 🎓 Bachelor's in *Computer Science*  
 - 🌱 Growing as a **Full-Stack & MERN Developer**
-- 🛠️ Focused on **React**, **Django**, **Node.js**, **MongoDB**,**Next.js**
-- 💬 Ask me about **APIs**, **Web Development**, and **Clean Code**
+- 🛠️ Stack: **React**, **Next.js**, **Node.js**, **MongoDB**, **Django**
+- 💬 Ask me about **APIs**, **Web Development**, **Clean Code**
 - 📍 Based in **Pakistan**
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://x.com/HurairahAb73769" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammad-abu-hurairah-988ba1303" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
   <a href="https://instagram.com/abu_hurairah.rehmani" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
 </p>
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="left">
   <!-- MERN -->
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <!-- Django / Python -->
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
+  <img src="https://skillicons.dev/icons?i=express" width="45"/>
+  <img src="https://skillicons.dev/icons?i=react" width="45"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
+  
+  <!-- Next.js -->
+  <img src="https://skillicons.dev/icons?i=nextjs" width="45"/>
+
+  <!-- Django/Python -->
+  <img src="https://skillicons.dev/icons?i=django" width="45"/>
+  <img src="https://skillicons.dev/icons?i=python" width="45"/>
+
   <!-- Frontend -->
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <!-- Database / Tools -->
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Next.js" width="40" height="40"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=html" width="45"/>
+  <img src="https://skillicons.dev/icons?i=css" width="45"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="45"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="45"/>
 
-  <!-- Extra -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
+  <!-- DB/Tools -->
+  <img src="https://skillicons.dev/icons?i=postgres" width="45"/>
+  <img src="https://skillicons.dev/icons?i=git" width="45"/>
+
+  <!-- Other -->
+  <img src="https://skillicons.dev/icons?i=cpp" width="45"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats (Dark Mode)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itz-hurairah18&show_icons=true&theme=radical" alt="itz-hurairah18 stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itz-hurairah18&show_icons=true&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-hurairah18&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-hurairah18&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
 
-### 🔥 Developer Quote
+## 🔥 GitHub Streaks
 
-> "Code is like humor. When you have to explain it, it’s bad."_ – Cory House  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=itz-hurairah18&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Developer Quote
+
+> **"Code is like humor. When you have to explain it, it’s bad."**  
+> — *Cory House*
 
 ---
 
