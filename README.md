@@ -38,7 +38,6 @@
 ---
 
 ## 💻 Tech Stack
-
 <p align="left">
   <!-- MERN -->
   <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
@@ -58,6 +57,7 @@
   <img src="https://skillicons.dev/icons?i=css" width="45"/>
   <img src="https://skillicons.dev/icons?i=javascript" width="45"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" width="45"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45"/>  <!-- Tailwind Added -->
 
   <!-- DB/Tools -->
   <img src="https://skillicons.dev/icons?i=postgres" width="45"/>
@@ -66,6 +66,7 @@
   <!-- Other -->
   <img src="https://skillicons.dev/icons?i=cpp" width="45"/>
 </p>
+
 
 ---
 
