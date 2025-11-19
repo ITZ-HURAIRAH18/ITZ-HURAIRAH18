@@ -85,8 +85,9 @@
 ## 🔥 GitHub Streaks
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=itz-hurairah18&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=itz-hurairah18&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
