@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abu Hurairah</h1>
-<h3 align="center">A passionate Full-Stack , MERN Developer & Next.js from Pakistan</h3>
+<h3 align="center">A passionate Full-Stack, MERN Developer & Next.js from Pakistan</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E8FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+🚀;Python+|+Django+|+React+|+Next.js;MERN+Stack+Developer;Clean+Code+|+API+Craftsman;Always+Learning+New+Things" />
@@ -14,7 +14,7 @@
 ## 🧠 About Me
 
 - 🎓 Bachelor's in *Computer Science*  
-- 🌱 Growing as a **Full-Stack , MERN Developer & Next.js Developer**
+- 🌱 Growing as a **Full-Stack, MERN & Next.js Developer**
 - 🛠️ Stack: **React**, **Next.js**, **Node.js**, **MongoDB**, **Django**
 - 💬 Ask me about **APIs**, **Web Development**, **Clean Code**
 - 📍 Based in **Pakistan**
@@ -71,25 +71,25 @@
 
 ---
 
-## 📊 GitHub Stats (Working Mirror)
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itz-hurairah18&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=itz-hurairah18&show_icons=true&theme=tokyonight" 
     height="170"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itz-hurairah18&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-hurairah18&layout=compact&theme=tokyonight" 
     height="170"
   />
 </p>
 
 ---
 
-## 🔥 GitHub Streaks (100% Working)
+## 🔥 GitHub Streaks
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=itz-hurairah18&theme=tokyonight&hide_border=true" />
