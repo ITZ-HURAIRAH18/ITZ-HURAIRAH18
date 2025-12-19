@@ -90,14 +90,14 @@
 ---
 
 ## 🔥 GitHub Streaks
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=itz-hurairah18&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+    width="600"
+  />
+</p>
 
-<div style="text-align: center;">
-    <img 
-        src="https://streak-stats.demolab.com?user=itz-hurairah18&theme=tokyonight&hide_border=true"
-        alt="GitHub Streak Stats"
-        loading="lazy"
-    >
-</div>
 
 ---
 
