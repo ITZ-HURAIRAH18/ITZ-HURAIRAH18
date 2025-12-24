@@ -79,7 +79,6 @@
     height="170"
   />
 </p>
-
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-hurairah18&layout=compact&theme=tokyonight" 
