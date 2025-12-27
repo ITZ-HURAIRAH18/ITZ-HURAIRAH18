@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abu Hurairah</h1>
-<h3 align="center">A passionate Full-Stack,MERN Developer & Next.js from Pakistan</h3>
+<h3 align="center">A passionate Full-Stack, MERN Developer, Next.js & AI-Driven Backend Developer from Pakistan</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E8FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+🚀;Python+|+Django+|+React+|+Next.js;MERN+Stack+Developer;Clean+Code+|+API+Craftsman;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E8FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+🚀;Python+|+Django+|+FastAPI+|+React+|+Next.js;MERN+Stack+Developer;Agentic+AI+%7C+LLM+Agents;Clean+Code+%7C+API+Craftsman;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -14,9 +14,10 @@
 ## 🧠 About Me
 
 - 🎓 Bachelor's in *Computer Science*  
-- 🌱 Growing as a **Full-Stack, MERN & Next.js Developer**
-- 🛠️ Stack: **React**, **Next.js**, **Node.js**, **MongoDB**, **Django**
-- 💬 Ask me about **APIs**, **Web Development**, **Clean Code**
+- 🌱 Growing as a **Full-Stack, MERN, Next.js & AI-Driven Backend Developer**
+- 🛠️ Stack: **React**, **Next.js**, **Node.js**, **MongoDB**, **Django**, **FastAPI**
+- 🤖 Working with **Agentic AI**, **LLM Agents**, and **Tool-based AI workflows**
+- 💬 Ask me about **APIs**, **FastAPI**, **Web Development**, **Clean Code**
 - 📍 Based in **Pakistan**
 
 ---
@@ -49,8 +50,9 @@
   <!-- Next.js -->
   <img src="https://skillicons.dev/icons?i=nextjs" width="45"/>
 
-  <!-- Django/Python -->
+  <!-- Backend / Python -->
   <img src="https://skillicons.dev/icons?i=django" width="45"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="45"/>
   <img src="https://skillicons.dev/icons?i=python" width="45"/>
 
   <!-- Frontend -->
@@ -68,6 +70,13 @@
   <img src="https://skillicons.dev/icons?i=cpp" width="45"/>
 
 </p>
+
+---
+
+## 🤖 AI & Advanced Skills
+- **Agentic AI** (Autonomous LLM Agents, Tool Calling, AI Workflows)
+- **FastAPI** for high-performance AI & backend services
+- API-first architecture (React / Next.js frontends)
 
 ---
 
@@ -96,7 +105,6 @@
     width="600"
   />
 </p>
-
 
 ---
 
