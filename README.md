@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack, MERN Developer, Next.js & AI-Driven Backend Developer  from Pakistan</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E8FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+🚀;Python+|+Django+|+FastAPI+|+React+|+Next.js;MERN+Stack+Developer;Agentic+AI+%7C+LLM+Agents;Clean+Code+%7C+API+Craftsman;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E8FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+🚀;Python+|+Django+|+FastAPI+|+React+|+Next.js;MERN+Stack+Developer;Agentic+AI+%7C+LLM+Agents;Clean+Code+%7C+API+Craftsman;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
