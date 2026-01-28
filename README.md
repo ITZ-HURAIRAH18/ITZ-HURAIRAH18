@@ -68,17 +68,20 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=itz-hurairah18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=itz-hurairah18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    width="420"
+    alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-hurairah18&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-hurairah18&layout=compact&theme=tokyonight&hide_border=true"
+    width="420"
+    alt="Top Languages"
   />
 </p>
+
 
 ---
 
