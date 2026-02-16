@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abu Hurairah</h1>
 
 <h3 align="center">
-🚀 Full-Stack | MERN | Next.js | AI-Driven Backend Developer from  Pakistan
+🚀 Full-Stack | MERN | Next.js | AI-Driven Backend Developer from Pakistan
 </h3>
 
 <p align="center">
@@ -77,10 +77,12 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=itz-hurairah18&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-streak-stats.herokuapp.com?user=itz-hurairah18&theme=tokyonight&hide_border=true"
     width="600"
   />
 </p>
+
+
 
 ---
 
