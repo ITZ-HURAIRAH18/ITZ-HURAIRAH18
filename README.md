@@ -25,22 +25,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://x.com/HurairahAb73769">
-    <img src="https://skillicons.dev/icons?i=twitter" width="45"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-abu-hurairah-988ba1303">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
-  <a href="https://instagram.com/abu_hurairah.rehmani">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
-  </a>
-</p>
-
----
-
 ## 💻 Tech Stack
 
 <p align="center">
@@ -49,26 +33,11 @@
 
 ---
 
-## 🤖 AI & Advanced Skills
-
-- Agentic AI & Autonomous LLM Agents  
-- Tool Calling & AI Workflow Orchestration  
-- FastAPI for High-Performance AI APIs  
-- API-First Architecture (React / Next.js)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=itz-hurairah18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"
-    width="420"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-hurairah18&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    width="420"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=itz-hurairah18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-hurairah18&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -76,12 +45,16 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=itz-hurairah18&theme=tokyonight&hide_border=true"
-    width="600"
-  />
+  <img src="https://streak-stats.demolab.com?user=itz-hurairah18&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itz-hurairah18&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
 
 ---
 
