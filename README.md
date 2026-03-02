@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abu Hurairah</h1>
 
 <h3 align="center">
-🚀 Full-Stack | MERN | Next.js | AI-Driven Backend Developer from Pakistan
+🚀 Full-Stack | MERN | Next.js | AI-Driven Backend Developer  from Pakistan
 </h3>
 
 <p align="center">
