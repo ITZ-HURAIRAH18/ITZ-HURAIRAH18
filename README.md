@@ -51,7 +51,7 @@ For me, programming is more than writing code — it's about **designing solutio
 
 ### Databases & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,git" />
 </p>
 
 ---
