@@ -14,7 +14,7 @@
 
 # About Me
 
-I'm a **Full-Stack Developer** with a strong **backend-first engineering mindset**.  
+I'm a **Full-Stack Developer**  with a strong **backend-first engineering mindset**.  
 I enjoy building systems that are **scalable, reliable, and maintainable**.
 
 For me, programming is more than writing code — it's about **designing solutions that solve real problems and deliver long-term value**.
