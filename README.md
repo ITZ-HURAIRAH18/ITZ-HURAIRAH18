@@ -4,25 +4,25 @@
 <!--                     HERO SECTION                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:00ffa3&height=200&section=header&text=Muhammad%20Abu%20Hurairah&fontSize=42&fontColor=00ffa3&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Automation&descAlignY=58&descSize=16&descColor=8b949e&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:7B2FBE&height=200&section=header&text=Muhammad%20Abu%20Hurairah&fontSize=42&fontColor=00D4FF&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Automation&descAlignY=58&descSize=16&descColor=8b949e&animation=twinkling" />
 
 <br/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00FFA3&center=true&vCenter=true&multiline=false&width=800&lines=%E2%9A%A1+Building+Scalable+Full-Stack+Systems;%F0%9F%A7%A0+Agentic+AI+%7C+n8n+Automation+%7C+LLM+Pipelines;%F0%9F%94%A5+MERN+%7C+Next.js+%7C+Django+%7C+FastAPI;%F0%9F%93%B1+React+Native+%E2%80%94+Cross-Platform+Mobile+Apps;%F0%9F%96%A5%EF%B8%8F+Electron.js+%E2%80%94+Desktop+Applications;%F0%9F%94%AE+RAG+Architecture+%7C+Vector+DBs+%7C+AI+Agents" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&width=800&lines=%E2%9A%A1+Building+Scalable+Full-Stack+Systems;%F0%9F%A7%A0+Agentic+AI+%7C+n8n+Automation+%7C+LLM+Pipelines;%F0%9F%94%A5+MERN+%7C+Next.js+%7C+Django+%7C+FastAPI;%F0%9F%93%B1+React+Native+%E2%80%94+Cross-Platform+Mobile+Apps;%F0%9F%96%A5%EF%B8%8F+Electron.js+%E2%80%94+Desktop+Applications;%F0%9F%94%AE+RAG+Architecture+%7C+Vector+DBs+%7C+AI+Agents" alt="Typing SVG" />
 
 <br/><br/>
 
 <!-- Status Badges -->
 <a href="https://github.com/ITZ-HURAIRAH18">
-  <img src="https://komarev.com/ghpvc/?username=ITZ-HURAIRAH18&label=Profile+Views&color=00ffa3&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ITZ-HURAIRAH18&label=Profile+Views&color=7B2FBE&style=flat-square" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Remote%20Work-00ffa3?style=flat-square&logo=statuspal&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Remote%20Work-7B2FBE?style=flat-square&logo=statuspal&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Based%20In-Pakistan%20🇵🇰-00ffa3?style=flat-square" />
+<img src="https://img.shields.io/badge/Based%20In-Pakistan%20🇵🇰-7B2FBE?style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-00ffa3?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-7B2FBE?style=flat-square&logo=openai&logoColor=white" />
 
 </div>
 
@@ -104,7 +104,7 @@ Electron.js ······ ██████░░░░ Learning
 Node.js / Express  ████████░░ Advanced
 Python ··········· ████████░░ Advanced
 FastAPI ·········· ████████░░ Advanced
-Django ············███████░░░ Intermediate
+Django ············ ███████░░░ Intermediate
 REST APIs ········ ████████░░ Advanced
 ```
 
@@ -172,7 +172,7 @@ Docker ··········· ██████░░░░ Learning
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-00ffa3?style=for-the-badge&logoColor=black)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-7B2FBE?style=for-the-badge&logoColor=white)
 ![Vector DBs](https://img.shields.io/badge/Vector_Databases-1C3C3C?style=for-the-badge&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-EA4B71?style=for-the-badge&logoColor=white)
 
@@ -248,22 +248,22 @@ Docker ··········· ██████░░░░ Learning
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ITZ-HURAIRAH18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ffa3&icon_color=00ffa3&text_color=8b949e&border_radius=10" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ITZ-HURAIRAH18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D4FF&icon_color=7B2FBE&text_color=8b949e&border_radius=10" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITZ-HURAIRAH18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffa3&text_color=8b949e&border_radius=10" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITZ-HURAIRAH18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=8b949e&border_radius=10" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ITZ-HURAIRAH18&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffa3&fire=00ffa3&currStreakLabel=00ffa3&border_radius=10" height="180"/>
+<img src="https://streak-stats.demolab.com?user=ITZ-HURAIRAH18&theme=tokyonight&hide_border=true&background=0d1117&ring=7B2FBE&fire=00D4FF&currStreakLabel=00D4FF&border_radius=10" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ITZ-HURAIRAH18&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffa3&line=00ffa3&point=ffffff&area=true&area_color=00ffa320" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ITZ-HURAIRAH18&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D4FF&line=7B2FBE&point=ffffff&area=true&area_color=7B2FBE20" width="95%"/>
 
 <br/>
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=ITZ-HURAIRAH18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ITZ-HURAIRAH18&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%"/>
 
 </div>
 
@@ -281,11 +281,11 @@ Docker ··········· ██████░░░░ Learning
 
 <div align="center">
 
-| 🟢 &nbsp;`01` &nbsp; **Systems Over Features** | 🟢 &nbsp;`02` &nbsp; **Backend-First Thinking** | 🟢 &nbsp;`03` &nbsp; **Automate Everything** |
+| 🟣 &nbsp;`01` &nbsp; **Systems Over Features** | 🟣 &nbsp;`02` &nbsp; **Backend-First Thinking** | 🟣 &nbsp;`03` &nbsp; **Automate Everything** |
 |:---:|:---:|:---:|
 | Build to last, not to ship fast. Architecture decisions compound over time. | A strong foundation holds everything up. APIs, data, and logic before UI. | Reserve human effort for creative problems. Let machines handle the rest. |
 
-| 🟢 &nbsp;`04` &nbsp; **Clean Code Always** | 🟢 &nbsp;`05` &nbsp; **APIs Are Contracts** | 🟢 &nbsp;`06` &nbsp; **Real Problems Only** |
+| 🟣 &nbsp;`04` &nbsp; **Clean Code Always** | 🟣 &nbsp;`05` &nbsp; **APIs Are Contracts** | 🟣 &nbsp;`06` &nbsp; **Real Problems Only** |
 |:---:|:---:|:---:|
 | DRY, SOLID, and readable by default. Not a preference — a standard. | Design them right the first time. Backward compatibility is non-negotiable. | The best AI system solves a real problem. Not one that just demos well. |
 
@@ -304,19 +304,19 @@ Docker ··········· ██████░░░░ Learning
 <br/>
 
 <a href="mailto:abuhurx@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ffa3" />
+  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00D4FF" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/muhammad-abu-hurairah-988ba1303/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ffa3" />
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00D4FF" />
 </a>
 &nbsp;
 <a href="http://abuhurairah.engineer/">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ffa3" />
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00D4FF" />
 </a>
 &nbsp;
 <a href="https://github.com/ITZ-HURAIRAH18">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ffa3" />
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00D4FF" />
 </a>
 
 <br/><br/>
@@ -336,4 +336,4 @@ Docker ··········· ██████░░░░ Learning
 <!--                     FOOTER                                 -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffa3,50:0d1117,100:0a0a0a&height=120&section=footer&fontSize=14&fontColor=8b949e&text=Always%20learning.%20Always%20building.%20Always%20automating.&fontAlignY=65&descSize=12" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:0d1117,100:0a0a0a&height=120&section=footer&fontSize=14&fontColor=8b949e&text=Always%20learning.%20Always%20building.%20Always%20automating.&fontAlignY=65&descSize=12" />
