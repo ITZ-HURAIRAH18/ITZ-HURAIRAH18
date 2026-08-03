@@ -132,6 +132,8 @@ For me, programming is more than writing code — it's about **designing solutio
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logoColor=white" />
+  &nbsp;
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
